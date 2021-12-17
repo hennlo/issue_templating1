@@ -4,6 +4,15 @@ If possible fill in all headings that are necessary for your request
 Please label your request accordingly
 -->
 
+---
+name:  Pull Request
+about: Let us know about a bug and help us improve!
+title: ''
+labels: bug, good first issue
+assignees: ''
+
+---
+
 ## Summary
 
 Please concisely describe the introduced changes and implementations.
