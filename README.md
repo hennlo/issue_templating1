@@ -1,4 +1,4 @@
-# issue_templating1
+# Sample Issue Templating using MD
 
 
 Lorem ipsum
