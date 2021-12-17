@@ -1,12 +1,19 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Let us know about a bug and help us improve!
 title: ''
-labels: ''
+labels: bug, good first issue
 assignees: ''
 
 ---
 
+<!-- Please reserve GitHub issues for bug reports and feature requests.
+
+For questions, the best place to get answers is on our [discussion forum](https://discuss.hashicorp.com/c/vault), as they will get more visibility from experienced users than the issue tracker.
+
+Please note: We take Vault's security and our users' trust very seriously. If you believe you have found a security issue in Vault, please responsibly disclose by contacting us at security@hashicorp.com. Our PGP key is available at [our security page](https://www.hashicorp.com/security/).
+
+-->
 **Describe the bug**
 A clear and concise description of what the bug is.
 
@@ -35,4 +42,4 @@ If applicable, add screenshots to help explain your problem.
  - Version [e.g. 22]
 
 **Additional context**
-Add any other context about the problem here.
+Add any other context about the problem or additional supporting information here.
