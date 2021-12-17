@@ -1,12 +1,3 @@
----
-name:  Pull Request
-about: Let us know about a bug and help us improve!
-title: ''
-labels: bug, good first issue
-assignees: ''
-
----
-
 <!--
 If possible fill in all headings that are necessary for your request 
 
@@ -18,7 +9,7 @@ Please label your request accordingly
 
 Please concisely describe the introduced changes and implementations.
 
-**Fixed Issues:** #ABC, #XYZ
+**Fixes:** #ABC, #XYZ [link all relevant issues]
 
 ### Changes
 If applicable list all changes you introduced to the current architecture and list how the behaviour has changed.
