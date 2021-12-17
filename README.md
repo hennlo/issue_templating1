@@ -8,5 +8,5 @@ This dummy repository should help do visualize how to use GitLabs ISSUE templati
 * Look at a [sample BUG](https://github.com/hennlo/sample_issue_templating/issues/4) after creation
 
 ## Open Pull Request
-* Open up a `Pull Request` [here](https://github.com/hennlo/issue_templating1/pulls)
-* Look at a [sample PR](https://github.com/hennlo/sample_issue_form_templating/pull/3) after creation
+* Open up a `Pull Request` [here](https://github.com/hennlo/sample_issue_templating/pulls)
+* Look at a [sample PR](https://github.com/hennlo/sample_issue_templating/pull/3) after creation
