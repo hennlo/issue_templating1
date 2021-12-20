@@ -1,3 +1,9 @@
+---
+
+labels: bug, good first issue
+
+---
+
 <!--
 If possible fill in all headings that are necessary for your request 
 
